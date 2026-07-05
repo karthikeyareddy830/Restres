@@ -1,3 +1,4 @@
+
 /**
  * scripts/seedTables.js — Table Seeder Script
  *
